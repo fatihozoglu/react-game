@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+This is the tic-tac-toe game in [ReactJS Tutorial](https://reactjs.org/tutorial/tutorial.html). Instead of class components I used function components and useState Hook for managing the state of the app.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
